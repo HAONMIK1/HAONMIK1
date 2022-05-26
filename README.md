@@ -1,8 +1,8 @@
-!![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=NOAHKIM&fontSize=90)
-<h3 align="center"> <span style="font-size:250%">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=NOAHKIM&fontSize=90)
+<h3 align="center"> <font size="10em">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
- 🇰🇷 🇰🇷 🇰🇷 🇰🇷 🇰🇷</span> </h3>
-<h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> <span style="font-size:150%"> TECH STACK</span></h2>
+ 🇰🇷 🇰🇷 🇰🇷 🇰🇷 🇰🇷</font> </h3>
+<h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> <font size="5em"> TECH STACK</font></h2>
 <p align="center"> Techs that I've used at least once </p>
 <p align="center">
   </code>  
